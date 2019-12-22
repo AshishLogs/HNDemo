@@ -7,4 +7,5 @@ Tried to replicate the Hacker News App using the MVVM design patter
  
  # Swift is used for making this project
  
- 
+ # Sequence Diagram Redirect
+ https://github.com/AshishLogs/HNDemo/blob/master/SequenceDiagram.pdf
